@@ -3,16 +3,20 @@ All script code for learning Python
 
 classify：  
 
-- [spider](https://github.com/XiangtingLee/Python-script/tree/main/spiders)
-  - [知乎圈子评论爬虫](https://github.com/XiangtingLee/Python-script/tree/main/spiders/知乎圈子评论爬虫)
-  - [ip2location](https://github.com/XiangtingLee/Python-script/tree/main/spiders/%E9%80%86%E5%90%91/ip2location)
+- [Spider](https://github.com/XiangtingLee/Python-script/tree/main/spiders)
+  - [知乎圈子评论爬虫](https://github.com/XiangtingLee/Python-script/tree/main/Spiders/知乎圈子评论爬虫)
     
     
-- [逆向](https://github.com/XiangtingLee/Python-script/tree/main/spiders/逆向)
-  - [ip2location](https://github.com/XiangtingLee/Python-script/tree/main/spiders/逆向/ip2location)
+- [Crack](https://github.com/XiangtingLee/Python-script/tree/main/Crack)
+  - [ip2location](https://github.com/XiangtingLee/Python-script/tree/main/Crack/ip2location)
   
-- [tools](https://github.com/XiangtingLee/Python-script/tree/main/tools)
-  - [id_card_verify](https://github.com/XiangtingLee/Python-script/tree/main/tools/id_card_verify)
+
+- [Tool](https://github.com/XiangtingLee/Python-script/tree/main/Tools)
+  - [id_card_verify](https://github.com/XiangtingLee/Python-script/tree/main/Tools/id_card_verify)
+    
+
+- [Automation](https://github.com/XiangtingLee/Python-script/tree/main/Automation)
+  - [auto_wenjuanxing](https://github.com/XiangtingLee/Python-script/tree/main/Automation/auto_wenjuanxing)
   
 微信公众号：万物皆可py  
 
