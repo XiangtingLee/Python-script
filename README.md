@@ -3,8 +3,8 @@ All script code for learning Python
 
 classify：  
 
-- [Spider](https://github.com/XiangtingLee/Python-script/tree/main/Spiders)
-  - [知乎圈子评论爬虫](https://github.com/XiangtingLee/Python-script/tree/main/Spiders/知乎圈子评论爬虫)
+- [Spider](https://github.com/XiangtingLee/Python-script/tree/main/Spider)
+  - [知乎圈子评论爬虫](https://github.com/XiangtingLee/Python-script/tree/main/Spider/知乎圈子评论爬虫)
     
     
 - [Crack](https://github.com/XiangtingLee/Python-script/tree/main/Crack)
