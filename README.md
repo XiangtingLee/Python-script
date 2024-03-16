@@ -13,6 +13,7 @@ classify：
 
 - [Tool](https://github.com/XiangtingLee/Python-script/tree/main/Tools)
   - [id_card_verify](https://github.com/XiangtingLee/Python-script/tree/main/Tools/id_card_verify): 身份证号码合法性验证
+  - [multithread_download](https://github.com/XiangtingLee/Python-script/tree/main/Tools/multithread_download): 多线程下载文件
     
 
 - [Automation](https://github.com/XiangtingLee/Python-script/tree/main/Automation)
